@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loic-djimenou
 - 👀 I’m interested in building software for the web.
-- 🌱 I’m currently learning kubernetes and Azure Cloud stuff
-- 💞️ I’m looking to collaborate on anything interresting really.
+- 🌱 I’m currently learning kubernetes and Cloud stuff
+- 💞️ I’m looking to collaborate on anything interresting really
 - 📫 How to reach me loic.djimenou@maersk.com
 - 📫 How to reach me loic.djimenou@gmail.com
 
