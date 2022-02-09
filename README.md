@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kubernetes and Azure Cloud stuff
 - 💞️ I’m looking to collaborate on anything interresting really.
 - 📫 How to reach me loic.djimenou@maersk.com
+- 📫 How to reach me loic.djimenou@gmail.com
 
 
 <!---
